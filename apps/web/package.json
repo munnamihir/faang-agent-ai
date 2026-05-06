@@ -1,0 +1,10 @@
+
+{
+  "name": "faang-agent-web",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
